@@ -18,6 +18,7 @@ For example, the file `cap_0004cd3f56246ad7396b8509455cad4bc860dbae.png` would h
 For example, here is [cap_0004cd3f56246ad7396b8509455cad4bc860dbae.png](https://kianbrose.com/assets/files/2022-08-04/1659637656-555527-cap-0004cd3f56246ad7396b8509455cad4bc860dbae.png)
 
 ![Captcha example image](https://kianbrose.com/assets/files/2022-08-04/1659637656-555527-cap-0004cd3f56246ad7396b8509455cad4bc860dbae.png)
+
 When solved manually, the answer is **2ra15**
 The SHA-1 hash for this image as stated in the name is **0004cd3f56246ad7396b8509455cad4bc860dbae**
 Trying to convert the answer to SHA-1 using either code or in this example [this website](http://www.sha1-online.com/):
